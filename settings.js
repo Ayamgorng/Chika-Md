@@ -22,27 +22,25 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281368176386','6283802603905','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281368176386','6283802603905'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281368176386','6283802603905' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285155171750'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285155171750'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285155171750' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'skdp' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Skdp-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'skdp' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ファディ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'KOBO 👾' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ファディ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'egabertoananta60@gmail.com'
+global.ig = 'https://www.instagram.com/fhdy_03?igsh=MWdqOGg2ZmNlZDVhOQ=='
+global.mygc = 'https://wa.me/6285155171750'
+global.email = 'fahdy204@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Skdp-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'skdp' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Kobo👾' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'ファディ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -77,7 +75,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 
 //—————「 Set Simbol 」—————//
 //terserah mai ubah atau nggak, note : tanda ' gausah di hapus!
-global.sp = '⭔'
+global.sp = '✧'
 
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
